@@ -8,6 +8,7 @@ function App() {
      <div className="grid-container">
        <div className="sidebar">
          <User />
+         <Skills />
        </div>
        <div className="main">main</div>
        </div>
